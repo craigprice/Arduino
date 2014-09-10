@@ -1,0 +1,3 @@
+SDCARDFILES	KEYWORD1
+createfile	KEYWORD2
+fileappend	KEYWORD2

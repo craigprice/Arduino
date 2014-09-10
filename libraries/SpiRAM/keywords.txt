@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For SpiRAM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SpiRAM          KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readByte        KEYWORD2
+writeByte       KEYWORD2
+readBytes       KEYWORD2
+writeBytes      KEYWORD2
+fillBytes       KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
